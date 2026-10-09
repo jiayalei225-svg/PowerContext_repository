@@ -5,7 +5,6 @@
 ## 说明
 
 - 本地路径：`D:\my_first_repository`
-- 远程仓库：https://github.com/jiayalei225-svg/my_first_repository
 - 默认分支：`main`
 
 ## 使用
