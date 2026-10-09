@@ -1,10 +1,10 @@
-# my_first_repository
+# PowerContext_repository
 
 我的第一个 Git 仓库。
 
 ## 说明
 
-- 本地路径：`D:\my_first_repository`
+- 本地路径：`D:\PowerContext_repository`
 - 默认分支：`main`
 
 ## 使用
