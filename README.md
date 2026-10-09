@@ -1,10 +1,11 @@
 # PowerContext_repository
 
-我的第一个 Git 仓库。
+PowerContext_repository 是一个用于存储 PowerContext 相关代码的 Power Git 仓库。
 
 ## 说明
 
 - 本地路径：`D:\PowerContext_repository`
+- 远程仓库：https://github.com/jiayalei225-svg/PowerContext_repository
 - 默认分支：`main`
 
 ## 使用
